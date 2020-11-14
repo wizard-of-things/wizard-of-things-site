@@ -1,12 +1,12 @@
 title: Wizard of Things
 description: Exploring low power wireless sensor networks with practical everyday things
-url: "https://github.com/wizard-of-things"
+url: "https://iot-wizards"
 markdown: kramdown
 permalink: /:title
 google_analytics:
 youtube: https://www.youtube.com/user/
 github:
-  repository_url: https://github.com/wizard-of-things/wizard-of-things.github.io
+  repository_url: https://github.com/wizard-of-things/wizard-of-things-site
 exclude: [
   CNAME,
   Gemfile,
